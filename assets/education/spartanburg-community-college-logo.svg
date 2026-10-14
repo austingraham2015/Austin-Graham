@@ -1,20 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 420" role="img" aria-labelledby="title desc">
-  <title id="title">Spartanburg Community College logo</title>
-  <desc id="desc">Spartanburg Community College logo with SCC emblem and wordmark.</desc>
-  <rect width="900" height="420" fill="#f3f3f3"/>
-  <g transform="translate(120,50)">
-    <path d="M0 130 L0 40 Q0 0 40 0 L580 0 Q620 0 620 40 L620 130 Q620 170 580 170 L40 170 Q0 170 0 130 Z" fill="#1d2c5a"/>
-    <path d="M20 110 L20 50 Q20 20 50 20 L550 20 Q580 20 580 50 L580 110 Q580 140 550 140 L50 140 Q20 140 20 110 Z" fill="#1d2c5a"/>
-    <path d="M8 116 Q8 32 90 32 L510 32 Q590 32 590 116 Q590 150 548 151 L52 151 Q8 150 8 116 Z" fill="#1d2c5a"/>
-    <path d="M20 120 Q20 40 92 40 L528 40 Q600 40 600 120 Q600 148 560 148 L40 148 Q20 148 20 120 Z" fill="#1d2c5a" fill-rule="evenodd"/>
-    <path d="M0 120 Q0 15 78 15 L522 15 Q600 15 600 120 L600 130 Q600 162 564 162 L36 162 Q0 162 0 130 Z" fill="none" stroke="#1fb36a" stroke-width="12"/>
-    <path d="M30 125 L30 64 Q30 36 60 36 L540 36 Q570 36 570 64 L570 125 Q570 150 546 150 L54 150 Q30 150 30 125 Z" fill="#1d2c5a"/>
-    <path d="M30 125 Q30 40 95 40 L505 40 Q570 40 570 125 Q570 147 546 147 L54 147 Q30 147 30 125 Z" fill="#1d2c5a"/>
-    <path d="M0 155 Q20 110 55 90 L550 90 Q620 90 620 160 L620 160 L0 160 Z" fill="#1fb36a" opacity="0.9"/>
-    <text x="300" y="122" text-anchor="middle" font-size="180" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#f5f5f5" letter-spacing="-8">SCC</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" role="img" aria-labelledby="title desc">
+  <title id="title">Spartanburg Community College</title>
+  <desc id="desc">Spartanburg Community College logo displayed as the official brand mark.</desc>
+  <rect width="900" height="500" fill="#f2f2f2"/>
+
+  <g transform="translate(110,30)">
+    <path d="M20 165 L20 85 Q20 50 55 50 L465 50 Q500 50 500 85 L500 165 Q500 200 465 200 L55 200 Q20 200 20 165 Z" fill="#1a2d55"/>
+    <path d="M30 150 L30 95 Q30 65 60 65 L460 65 Q490 65 490 95 L490 150 Q490 180 460 180 L60 180 Q30 180 30 150 Z" fill="#1a2d55"/>
+    <path d="M5 145 L5 80 Q5 25 60 25 L460 25 Q515 25 515 80 L515 145 Q515 200 460 200 L60 200 Q5 200 5 145 Z" fill="#1a2d55" stroke="#1ea76b" stroke-width="10"/>
+    <path d="M0 170 Q35 150 72 155 L428 155 Q470 155 500 170 L500 180 Q500 220 458 220 L42 220 Q0 220 0 180 Z" fill="#1ea76b"/>
+    <text x="260" y="145" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="170" font-weight="700" fill="#f1f1f1" letter-spacing="-10">SCC</text>
   </g>
-  <g transform="translate(40,250)">
-    <text x="0" y="0" font-size="92" font-weight="700" font-family="Arial, Helvetica, sans-serif" fill="#123b5d" letter-spacing="-4">SPARTANBURG</text>
-    <text x="0" y="110" font-size="86" font-weight="300" font-family="Arial, Helvetica, sans-serif" fill="#123b5d" font-style="italic" letter-spacing="-2">Community College</text>
+
+  <g transform="translate(20,290)">
+    <text x="0" y="0" font-family="Arial, Helvetica, sans-serif" font-size="86" font-weight="700" fill="#1a2d55" letter-spacing="-4">SPARTANBURG</text>
+    <text x="0" y="110" font-family="Arial, Helvetica, sans-serif" font-size="92" font-weight="300" fill="#1a2d55" font-style="italic" letter-spacing="-3">Community College</text>
   </g>
 </svg>
