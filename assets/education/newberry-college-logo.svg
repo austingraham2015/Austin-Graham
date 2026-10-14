@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 180" role="img" aria-labelledby="title desc">
+  <title id="title">Newberry College</title>
+  <desc id="desc">Stylized logo for Newberry College</desc>
+  <defs>
+    <linearGradient id="newberryBg" x1="0" x2="1">
+      <stop offset="0%" stop-color="#510d1b"/>
+      <stop offset="100%" stop-color="#2d0a12"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="180" rx="18" fill="url(#newberryBg)"/>
+  <circle cx="92" cy="90" r="54" fill="#f7f1e6"/>
+  <circle cx="92" cy="90" r="42" fill="none" stroke="#6a1023" stroke-width="8"/>
+  <path d="M70 118 L92 48 L114 118 Z" fill="#6a1023"/>
+  <text x="170" y="85" font-size="38" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#f6efe6" letter-spacing="1.8">NEWBERRY</text>
+  <text x="170" y="122" font-size="28" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#d8bea0" letter-spacing="2.6">COLLEGE</text>
+</svg>
