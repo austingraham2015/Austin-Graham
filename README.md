@@ -1,4 +1,4 @@
-# Austin-Graham
+# Austin Graham
 
 **Grad Student**
 
