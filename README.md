@@ -2,7 +2,7 @@
 
 **Grad Student**
 
-Welcome, I am a Registered Respiratory Therapist residing in Spartanburg, SC.
+Welcome, I am a Registered Respiratory Therapist residing in Spartanburg, SC. I currently hold a Bachelor's and an Associate's degree in Respiratory Therapy and am pursuing a Master's in Informatics at the University of South Carolina Upstate. This portfolio aims to showcase my development in basic coding and computer science. 
 
 ## Education
 
