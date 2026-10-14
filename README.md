@@ -9,19 +9,15 @@ Welcome, I am a Registered Respiratory Therapist residing in Spartanburg, SC.
 <div align="center">
   <table>
     <tr>
-      <td align="center">
-        <img src="https://assets.brandfetch.io/id1pOZ6p0F/idIxaBH6qg.png" alt="Newberry College logo" width="220" />
+      <td align="center" valign="top">
+        <img src="./assets/education/spartanburg-community-college-logo.svg" alt="Spartanburg Community College logo" width="420" />
         <br />
-        <strong>Newberry College</strong>
-        <br />
-        Bachelor of Science in Respiratory Therapy
+        <strong>Associate of Applied Science in Respiratory Therapy</strong>
       </td>
-      <td align="center">
-        <img src="https://logodix.com/logo/372638.png" alt="Spartanburg Community College logo" width="220" />
+      <td align="center" valign="top">
+        <img src="./assets/education/newberry-college-logo.svg" alt="Newberry College logo" width="420" />
         <br />
-        <strong>Spartanburg Community College</strong>
-        <br />
-        Associate of Applied Science in Respiratory Therapy
+        <strong>Bachelor of Science in Respiratory Therapy</strong>
       </td>
     </tr>
   </table>
